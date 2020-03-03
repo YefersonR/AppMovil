@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\bin\Debug\netstandard2.0\AppMovilEj.deps.json
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\bin\Debug\netstandard2.0\AppMovilEj.dll
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\bin\Debug\netstandard2.0\ref\AppMovilEj.dll
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\bin\Debug\netstandard2.0\AppMovilEj.pdb
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\AppMovilEj.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\AppMovilEj.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\AppMovilEj.AssemblyInfo.cs
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\AppMovilEj.dll
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\ref\AppMovilEj.dll
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\AppMovilEj.pdb
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Secundaria.xaml.g.cs
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Detail.xaml.g.cs
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Page1.xaml.g.cs

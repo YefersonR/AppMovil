@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppMovilEj.Detail"
+             Title="Informacion">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="label1"
+           Text="Ingrese su nombre"
+           VerticalOptions="Center"
+           HorizontalOptions="Center"
+           />
+            <Entry x:Name="entry1" 
+           VerticalOptions="Center"
+           HorizontalOptions="Center"
+           WidthRequest="200"
+           />
+
+            <Label x:Name="label2"
+           Text="Ingrese su apellido" 
+           VerticalOptions="Center"
+           HorizontalOptions="Center"
+           />
+            <Entry x:Name="entry2" 
+           VerticalOptions="Center"
+           HorizontalOptions="Center"
+           WidthRequest="200"
+           />
+
+            <Button x:Name="boton" 
+                Text="Enviar" 
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" 
+                Clicked="boton_Clicked_1"
+           />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

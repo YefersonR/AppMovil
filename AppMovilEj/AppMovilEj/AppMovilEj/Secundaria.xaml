@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppMovilEj.Secundaria"
+             Title="Master"
+             >  
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Esta es la pagina secundaria de la app movil" x:Name="label2"/>
+            <Button x:Name="segunda" Text="Ir a la pagina 1" Clicked="segunda_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
