@@ -25,6 +25,10 @@ namespace AppMovilEj
 
         }
 
-        
+        private async void Tercera_Clicked(object sender, EventArgs e)
+        {
+            App.MasterD.IsPresented = false;
+            await App.MasterD.Detail.Navigation.PushAsync(new Page2());
+        }
     }
 }

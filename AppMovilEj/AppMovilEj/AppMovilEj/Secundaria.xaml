@@ -10,7 +10,8 @@
     <ContentPage.Content>
         <StackLayout Orientation="Vertical">
             <Label Text="Esta es la pagina secundaria de la app movil" x:Name="label2"/>
-            <Button x:Name="segunda" Text="Ir a la pagina 1" Clicked="segunda_Clicked"></Button>
+            <Button x:Name="segunda" Text="Mostar imagenes" Clicked="segunda_Clicked"></Button>
+            <Button x:Name="tercera" Text="Mostrar datos" Clicked="Tercera_Clicked"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

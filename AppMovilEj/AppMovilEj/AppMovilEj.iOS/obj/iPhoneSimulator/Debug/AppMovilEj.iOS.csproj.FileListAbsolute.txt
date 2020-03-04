@@ -56,3 +56,4 @@ C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj.iOS\obj\iPhoneSimu
 C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj.iOS\obj\iPhoneSimulator\Debug\AppMovilEj.iOS.csproj.CopyComplete
 C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj.iOS\obj\iPhoneSimulator\Debug\AppMovilEj.iOS.exe
 C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj.iOS\obj\iPhoneSimulator\Debug\AppMovilEj.iOS.pdb
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj.iOS\obj\iPhoneSimulator\Debug\AppMovilEj.iOS.csproj.CoreCompileInputs.cache

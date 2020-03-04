@@ -1,1 +1,7 @@
-<Devices><Device id="RST9K18929900444"><ResultingAbi>armeabi-v7a</ResultingAbi><SdkVersion>27</SdkVersion></Device><Device id="FA58BYN00707"><ResultingAbi></ResultingAbi><SdkVersion>23</SdkVersion></Device><Device id="42008cb4dce763dd"><ResultingAbi>armeabi-v7a</ResultingAbi><SdkVersion>23</SdkVersion></Device></Devices>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device id="LGH918e3958abc">
+    <ResultingAbi>arm64-v8a</ResultingAbi>
+    <SdkVersion>26</SdkVersion>
+  </Device>
+</Devices>

@@ -14,3 +14,5 @@ C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstand
 C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Secundaria.xaml.g.cs
 C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Detail.xaml.g.cs
 C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\AppMovilEj.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AppMovil\AppMovilEj\AppMovilEj\AppMovilEj\obj\Debug\netstandard2.0\Page2.xaml.g.cs
